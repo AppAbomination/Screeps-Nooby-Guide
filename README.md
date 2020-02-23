@@ -1,3 +1,5 @@
+This is a fork of thPion's code, I am learning and will make changes as I customize this code.
+
 Code used in my [Screeps Nooby Guide video series](https://www.youtube.com/playlist?list=PL0EZQ169YGlor5rzeJEYYPE3tGYT2zGT2). Please check out other branches than master for code that relates to a specific video.
 
 Youtube videos:
